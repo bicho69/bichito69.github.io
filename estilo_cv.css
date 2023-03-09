@@ -1,0 +1,47 @@
+body{
+    background-color:cornflowerblue;
+}
+#datosper{
+    background-color:cornsilk;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkred;
+    
+}
+
+#foto{
+    text-align:center
+}
+
+#legendper{
+    font-family:cursive;
+    color:darkblue;
+    
+}
+#experiencia{
+    background-color:cornsilk;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkred;
+}
+
+
+#estudios{
+    background-color:cornsilk;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkred;
+}
+
+#legendlab{
+    font-family:cursive;
+    color:darkblue;
+
+}
+#legendest{
+    font-family:cursive;
+    color:darkblue;
+
+}
+legend{
+    border: solid 2px;
+    border-radius: 15px;
+    background-color:azure;
+}
